@@ -1,0 +1,14 @@
+.vs
+.vscode
+*/.venv/
+*/obj/
+*/bin/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
+*.pdf
+*.bbl
+*.blg
